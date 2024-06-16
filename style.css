@@ -1,0 +1,105 @@
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color: black;
+    color: #fff;
+    position: fixed;
+    width: 100vw;
+    line-height:25px;
+    
+}
+div{
+    
+
+}
+ul li{
+    display: inline-block;
+    margin-right: 50px;
+ 
+  
+}
+.one{
+    
+   
+}
+#inpt{
+ 
+}
+body{
+    height: 1000px;
+}
+#second-bar{
+  position: relative;
+  top: 56px;
+  display: flex;
+  background-color: #e2dfdf;
+  color: black;
+  line-height: 25px;
+  justify-content: space-evenly;
+  width: 99.92vw;
+  
+}
+#one-1{
+    display: inline-block;
+    margin-top: 50px;
+    height: 70vh;
+    width: 99.50vw;
+    background-color:rgba(138, 43, 226,0.6);
+    /* overflow: hidden; */
+    display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+
+}
+#two-2{
+  height: 60vh;
+  margin-left: 90px;
+  
+  in-top: 95px;
+}
+#three-3{
+  width: 50vw;
+
+}
+img{
+  width: 754px;
+  margin-top: -50px;
+}
+#box{
+  height: 50vh;
+  background-color:#e2dfdf ;
+  display: flex;
+  justify-content: space-around;
+ align-items: center;
+}
+.bx{
+  height: 200px;
+  width: 300px;
+  border: 2px solid white;
+  border-radius: 20px;
+  background-image: url(./girl1.jpg);
+  background-position: center;
+ 
+}
+#bx1{
+  background-image: url(./girl1.jpg);
+  background-size: cover;
+
+}
+#bx2{
+  background-image: url(./girl2.png);
+  background-size: cover;
+  
+
+}
+#bx3{
+  background-image: url(./girl3.jpg);
+  background-size: cover;
+
+}
+#bx4{
+  background-image: url(./girl4.jpg);
+  background-size: cover;
+}
